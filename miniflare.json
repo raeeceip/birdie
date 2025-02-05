@@ -1,0 +1,11 @@
+{
+    "globals": {
+      "LLAMA_COORDINATOR": {
+        "className": "LlamaCoordinator"
+      }
+    },
+    "durableObjects": {
+      "LlamaCoordinator": "./app/lib/durables/llamacoordinator.ts"
+    },
+    "modules": true
+  }
